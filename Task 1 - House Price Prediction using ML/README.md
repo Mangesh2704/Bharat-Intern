@@ -1,4 +1,4 @@
-# House Price Prediction
+# House Price Prediction using Machine Learning
 
 This project uses a Linear Regression model to predict house prices based on selected features. You can input the property's area, number of bedrooms, gymnasium availability, lift availability, and car parking availability to get an estimated house price.
 
@@ -39,3 +39,7 @@ Here's a screenshot of the House Price Prediction GUI:
 
 Contributions are welcome! If you have any improvements or suggestions, feel free to create a pull request.
 
+##
+**Author:** Mangesh Pangam  
+**GitHub:** [Mangesh2704](https://github.com/Mangesh2704)  
+**Email:** 202103036.mangeshpkr@student.xavier.ac.in
