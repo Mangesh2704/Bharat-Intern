@@ -48,7 +48,17 @@ The app employs a Linear Regression model trained on a dataset of wine attribute
   
 - **scikit-learn:** A machine learning library for Python.
 
+## Example
+
+Here's a screenshot of the House Price Prediction GUI:
+
+![Wine Quality Prediction GUI](wine_predict.png)
+
 ## Contributions
 
 Contributions to this Wine Quality Prediction App are welcome! If you have ideas for improvements or would like to enhance its functionality, feel free to submit issues or pull requests.
 
+##
+**Author:** Mangesh Pangam  
+**GitHub:** [Mangesh2704](https://github.com/Mangesh2704)  
+**Email:** 202103036.mangeshpkr@student.xavier.ac.in
