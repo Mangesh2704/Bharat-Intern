@@ -50,7 +50,7 @@ The app employs a Linear Regression model trained on a dataset of wine attribute
 
 ## Example
 
-Here's a screenshot of the House Price Prediction GUI:
+Here's a screenshot of the Wine Quality Prediction GUI:
 
 ![Wine Quality Prediction GUI](wine_predict.png)
 
